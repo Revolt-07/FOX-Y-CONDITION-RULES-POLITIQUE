@@ -30,3 +30,8 @@ L'autorisation a un développeur, est nécessaire pour les utiliser.
 
 Si vous souhaitez avoir plus d'informations ou que vous souhaitez poser des questions, veuillez rejoindre [`le serveur Support Officiel de Fox'y.`](https://discord.gg/Bwrg8WxADK)
 [`Cliquer ici si vous voulez inviter fox'y.`](https://discord.com/oauth2/authorize?client_id=933489540327436348&scope=bot+applications.commands&permissions=2113400319)
+
+## Document Émis, le 27/04/2022
+
+Il se peut que cette page change à tout moment, les utilisateurs utilisant Fox'y seront avertis via l'application discord.
+Dernière modification le 27/04/2022
