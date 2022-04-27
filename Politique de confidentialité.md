@@ -13,4 +13,5 @@ L'accès aux données n'est autorisé qu'aux développeurs du Bot.
 ## Droits de l’utilisateur
 
 À tout moment, vous avez le droit de demander à consulter les Données relatives à votre compte Discord.
-Vous pouvez soumettre une demande via le sopport [`de Fox'y`](https://discord.gg/Bwrg8WxADK)
+Vous pouvez soumettre une demande via le sopport [`de Fox'y`](https://discord.gg/Bwrg8WxADK).
+Vous avez le droit de demander la suppression des vos données.
