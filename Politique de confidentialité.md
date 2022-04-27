@@ -20,3 +20,8 @@ Vous avez le droit de demander la suppression des vos données.
 
 Nous nous engageons à ce que le bot respecte les [`ToS de discord.`](https://discord.com/terms)
 Si un serveur ne respecte pas les ToS de discord, une expulsion de fox'y peux être mis en œuvre.
+
+## Droit d'auteur (Copyright)
+
+Les images, codes, etc. Appartiens au développeur du bot. 
+L'autorisation a un développeur, est nécessaire pour les utiliser.
